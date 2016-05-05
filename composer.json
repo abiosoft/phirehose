@@ -1,9 +1,9 @@
 {
-    "name": "fennb/phirehose",
+    "name": "abiosoft/phirehose",
     "description": "A PHP interface to the Twitter Streaming API.",
     "keywords": ["phirehose", "php", "twitter", "streaming", "api"],
     "type": "library",
-    "homepage": "https://github.com/fennb/phirehose",
+    "homepage": "https://github.com/abiosoft/phirehose",
     "license": "GPL",
     "authors": [
         {
